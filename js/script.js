@@ -75,3 +75,6 @@ function reiniciar(){
 	document.location.reload(true);
 	
 }
+
+
+
